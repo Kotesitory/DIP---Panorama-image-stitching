@@ -28,6 +28,18 @@ Use the functions as you wish, but in this version the code calls each one with 
 ## Installation
 Installation very simple. Only clone the repository and execute the *main. py* file with a Python 3 interpreter. Provide the images in the format specified above and everything should work.
 
+## Planar Stitching
+![planar](https://imgur.com/Z66fzIk.jpg)
+
+## Cylindrical Stitching
+![Cylindrical](https://imgur.com/Cp7CA6E.jpg)
+
+## Hybrid Stitching
+![hybrid](https://imgur.com/2lW8xyu.jpg)
+
+## OpenCV Stitcher 
+![OpenCV](https://imgur.com/HlgMeyc.jpg)
+
 ## References
 - [1] Kushal Vyas - [Image stitching, a simple tutorial](https://kushalvyas.github.io/stitching.html)
 - [2] Roy Shilkrot - [Cylindrical image warping for panorama stitchingl](https://www.morethantechnical.com/2018/10/30/cylindrical-image-warping-for-panorama-stitching/)
